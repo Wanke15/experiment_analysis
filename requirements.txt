@@ -3,3 +3,4 @@ matplotlib==3.3.3
 pandas==1.2.5
 styleframe==4.1
 openpyxl==3.0.9
+tqdm==4.64.0
