@@ -1,0 +1,5 @@
+numpy==1.21.6
+matplotlib==3.3.3
+pandas==1.2.5
+styleframe==4.1
+openpyxl==3.0.9
