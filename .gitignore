@@ -1,2 +1,4 @@
 ./project/*/data/
 ./project/*/report/
+./.idea/
+/project/match_recall_20230130/
