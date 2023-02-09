@@ -28,6 +28,7 @@
 │       └── report
 │           ├── city_zip
 │           └── frequency
+└── requirments.txt
 ```
 ## 2. 数据结构
  - city_zip
